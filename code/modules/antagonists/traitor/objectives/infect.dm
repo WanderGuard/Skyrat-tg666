@@ -1,3 +1,4 @@
+/* SS EX 666 change. No more gib grief objective.
 /datum/traitor_objective_category/infect
 	name = "Infect with Disease"
 	objectives = list(
@@ -167,3 +168,4 @@
 	else
 		inject(affected_mob, user)
 
+*/
